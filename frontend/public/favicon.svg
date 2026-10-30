@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VulnSight shield mark">
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#0B1020" stroke="#1B5260" stroke-width="2"/>
+  <path d="M32 11 49 17v13c0 11-6.9 18.3-17 23-10.1-4.7-17-12-17-23V17l17-6Z" fill="#102D3A" stroke="#22D3EE" stroke-width="2.3" stroke-linejoin="round"/>
+  <path d="m23 31 6 6 13-14" fill="none" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="18" r="3.1" fill="#22D3EE"/>
+</svg>
