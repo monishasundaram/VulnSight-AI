@@ -1,0 +1,11 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": ["Portfolio project overview for LinkedIn and professional sharing", "Use only verified VulnSight capabilities and actual UI screenshots"],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 0,
+    "portrait_images": 0
+  }
+}

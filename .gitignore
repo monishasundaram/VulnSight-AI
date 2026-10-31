@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+frontend/node_modules/
+*.tsbuildinfo
+backend/app/static/
+data/*.db
+data/*.sqlite*
+*.log
